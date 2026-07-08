@@ -1,0 +1,4 @@
+Flask==3.0.3
+Flask-Cors==4.0.1
+pyjwt==2.8.0
+bcrypt==4.1.3
